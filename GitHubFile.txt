@@ -1,5 +1,5 @@
 New file in GitHub.com
-Add something
+Add something in GitHub.com
 
 Also Add something in local machine
 
