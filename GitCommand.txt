@@ -1,0 +1,25 @@
+
+add
+$ git add xxx  
+$ git add .
+
+
+commit
+$ git commit -m "comments"
+
+
+
+connect to remote repository
+$ git remote add origin git@github.com:hong-song/HomeProject.git
+
+pull
+$ git pull origin master
+
+push
+for the first time
+$ git push -u origin master
+then
+$ git push origin master
+
+
+
