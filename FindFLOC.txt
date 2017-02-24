@@ -1,4 +1,3 @@
---Find FLOC
 
 declare @FLOCID nvarchar(50), @EquipID nvarchar(50), 
         @Description nvarchar(255), @FLOC nvarchar(255),
